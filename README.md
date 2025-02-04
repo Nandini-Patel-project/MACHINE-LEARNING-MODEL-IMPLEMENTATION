@@ -47,4 +47,4 @@ Evaluation: Evaluate the model using accuracy, classification report, and confus
 Custom Predictions: Test the model on custom messages to predict if they are spam or ham.
 
 * output:
-* 
+* ![Image](https://github.com/user-attachments/assets/e72db332-5c9b-4a61-a221-d8591b8b58eb)
